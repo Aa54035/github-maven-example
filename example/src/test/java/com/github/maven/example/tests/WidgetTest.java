@@ -1,4 +1,7 @@
 package com.github.maven.example.tests;
+/*
+Ashish pingale copied this fle into his github account 
+*/
 
 import static org.junit.Assert.assertFalse;
 import static org.junit.Assert.assertTrue;
@@ -24,6 +27,7 @@ public class WidgetTest {
 	/**
 	 * Test enabling and disabling a {@link Widget}
 	 */
+	
 	@Test
 	public void updateEnableState() {
 		Widget widget = new Widget();
